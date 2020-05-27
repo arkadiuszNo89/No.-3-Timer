@@ -12,5 +12,5 @@ Główne założenia aplikacji oraz próby kodu:
   - Następuje rzutowanie procentowego progresu czterech pierwszych wydarzeń z listy aktywnej na ProgressIndicator (co minutę).
   - Dodatkowo progres zaznaczonego z listy aktywnej wydarzenia rzutowany zostaje na ProgressBar.
   - Save / Load dla wydarzeń do pliku tekstowego.
-  - Zakończone wydarzenia dodane zostają do kolejki ArrayDeque oraz sygnalizowane są migający tłem Label'a z nazwą.
+  - Zakończone wydarzenia dodane zostają do kolejki ArrayDeque oraz sygnalizowane są migającym tłem Label'a z nazwą.
   - Po kliknięciu w aktywny Label po kolei ściągamy wydarzenia z kolejki widząc kolejno ich nazwy, aż alarm nie zniknie.
